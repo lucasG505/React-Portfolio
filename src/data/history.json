@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Teacher Assistant",
+        "organisation": "Henry",
+        "startDate": "2023-2-9" ,
+        "endDate": "2023-4-5" ,
+        "experiences": ["Coordinate a group of people to acomplish a better studying enviroment", "Help in the resolution of logical and coding problems"],
+        "imageSrc": "history/henry.png"
+    },
+    {
+        "role":"Backend Dev",
+        "organisation": "Henry",
+        "startDate": "2023-5-6" ,
+        "endDate": "2023-5-28" ,
+        "experiences": ["Creating and managing data bases", "Using routes and controllers", "Implemented payment methods"],
+        "imageSrc": "history/muscle.png"
+    },
+    {
+        "role":"Fullstack Dev",
+        "organisation": "Henry",
+        "startDate": "2023-4-11",
+        "endDate": "2023-4-28" ,
+        "experiences": ["Building a web page from scratch", "Managing both server and client side", "Design a responsive and with great User Experience and Interface"],
+        "imageSrc": "history/dog.png"
+    }
+]

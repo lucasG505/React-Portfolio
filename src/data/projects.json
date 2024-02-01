@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Dogs Card",
+        "imageSrc":"projects/project.png",
+        "description":"A simple CRUD project where you can see different breeds of dogs, filter them and create your own",
+        "skills":["React","Redux", "Node", "PostgreSQL"],
+        "demo":"",
+        "source":"https://github.com/lucasG505/Dogs-Proyect"
+    },
+    {
+        "title":"MuscleLab",
+        "imageSrc":"projects/project.png",
+        "description":"A web for a large group of gyms, in wich you have admin control to create an manage different offices, employees and clients. Being a client you can access your classes and buy memberships",
+        "skills":["Node", "Express", "PostgreSQl", "Sequelize"],
+        "demo":"https://muscle-lab-six.vercel.app/",
+        "source":"https://github.com/lucasG505/MuscleLab"
+    }
+]
